@@ -1,1 +1,2 @@
-# Grip2022intern
+# Grip2022 Sparks Foundation - Data Scienece & Business Analytics Intern
+
